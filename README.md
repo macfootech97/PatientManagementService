@@ -1,1 +1,1 @@
-[PAtient Management System Architecture Diagram](Achitecture Diagram.png)
+![PAtient Management System Architecture Diagram](/Achitecture Diagram.png)
